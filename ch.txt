@@ -1,0 +1,10 @@
+ Try to load cfg: /home/hayashida/yolov4/darknet/cfg/yolov4.cfg, weights: /home/hayashida/yolov4/darknet/yolov4.weights, clear = 0 
+net.optimized_memory = 0 
+mini_batch = 1, batch = 8, time_steps = 1, train = 0 
+nms_kind: greedynms (1), beta = 0.600000 
+nms_kind: greedynms (1), beta = 0.600000 
+nms_kind: greedynms (1), beta = 0.600000 
+ Try to load weights: /home/hayashida/yolov4/darknet/yolov4.weights 
+YOLO Init
+
+ seen 64, trained: 32032 K-images (500 Kilo-batches_64) 
